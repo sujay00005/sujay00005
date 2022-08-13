@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sujay Biswas
-- 👀 I’m interested in mobile app development and coding
-- 🌱 I’m currently learning flutter and dart
-- 💞️ I’m looking to collaborate on app development
+- 👀 I’m interested in mobile app development (using flutter) backend development (using nodeJs) and data-structure and algorithm.
+- 🌱 I’m currently learning wrb development in MERN stack
+- 💞️ I’m looking to collaborate on app development and MERN projects
 - 📫 Mail me at sujay00005@gmail.com
 
 <!---
